@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of the Kings commission, granted to Sir Nicolas Crispe, making him admirall of the sea-pirats brought (with other papers) to the Parliament ... and presented to the Committee for the Navie.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31833</idno>
+            <idno type="STC">Wing C2170</idno>
+            <idno type="STC">ESTC P1309</idno>
+            <idno type="EEBO-CITATION">15564984</idno>
+            <idno type="OCLC">ocm 15564984</idno>
+            <idno type="VID">103802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of the Kings commission, granted to Sir Nicolas Crispe, making him admirall of the sea-pirats brought (with other papers) to the Parliament ... and presented to the Committee for the Navie.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Nicholas, --  Sir, 1599?-1666.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103802:1"/>
+            <pb facs="tcp:103802:1" rendition="simple:additions"/>
+            <p>
+               <hi>Numb. 2.</hi>
+            </p>
+            <p>A Copie of The Kings Commiſsion, GRANTED TO SIR NICOLAS CRISPE, Making him <hi>Admirall of the Sea-Pirats.</hi>
+            </p>
+            <p>Brought (with other Papers) to the Parliament by <hi>M. Peters,</hi> AND <hi>Preſented to the Committee for the Navie.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Auſtin.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commission">
+            <pb facs="tcp:103802:2"/>
+            <pb n="1" facs="tcp:103802:2"/>
+            <head>CHARLES by the grace of God, of England, Scotland, France, and Ireland, King, Defender of the Faith, &amp;c.</head>
+            <opener>
+               <salute>To all to whom theſe Preſents ſhall come, Greeting.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in the time of this unnaturall Rebellion, our owne Ships and Veſſells belonging to our Royall Navie have bin traiterouſly ſeized upon, and thoſe and divers Ships and Veſſells belonging to others, aſ<g ref="char:EOLhyphen"/>well Strangers as our owne Subjects, have bin and ſtill are imployed againſt us, or in the ſervice of the Rebells in Armes againſt us, by carrying or conveying of Armes, Ammunition, Money, Victualls, and other Proviſions for their aid
+<pb n="2" facs="tcp:103802:3"/>and aſſiſtance, or by exporting from them Money, Bullion, Plate, or prohibited Goods, without licence, contrarie to the Lawes; or by trading and carrying of Goods and Merchandize for trade and commerce, to and from thoſe parts, Cities, Townes, and Places which are under the uſurped Powers the Rebells in Armes againſt us: And likewiſe by paying Cuſtomes, Subſidies, and Impoſts, to the ſaid Rebells, contrary to the Lawes, and our Proclamation in that behalf, which affoords them meanes and ability towards the maintenance and upholding of the ſaid unnaturall Rebellion.</p>
+            <p>And whereas divers of our good Subjects adhering to us, have ſuffered great loſſe and dammage by the ſaid Rebells, and their Ab<g ref="char:EOLhyphen"/>betors aſwell upon the Land as upon the Sea, for which they can have no remedie in ordinarie courſe of juſtice, in regard thoſe that have done the ſame, are kept out of the reach or hand of juſtice, by the Powers and Forces ſo traiterouſly raiſed againſt us.</p>
+            <p>And whereas in theſe times or diſtractions divers Pyrates, and Sea-Rovers commit great ſpoiles and outrages upon our owne Sub<g ref="char:EOLhyphen"/>jects, and the Subjects of our friends and allies, and divers of our Subjects of our Kingdome of Scotland, have moſt perfidiouſly and traiterouſly riſen up in Rebellion, and taken up Armes, againſt us their naturall Leige Lord and Soveraigne, and have in a hoſtile manner invaded this our Kingdome of England.</p>
+            <p>And whereas divers Ships and Veſſels aſ well Scottiſh, as others, are imployed at Sea in their aid and aſſiſtance, in manner as afore<g ref="char:EOLhyphen"/>ſaid. And whereas upon thoſe occaſions we have been forced to ſet out Ships at our own great charge, for our owne defence, and the defence of our loyall Subjects, and preventing the miſchiefs be<g ref="char:EOLhyphen"/>fore mentioned, and have likewiſe thought fit to give all encourage<g ref="char:EOLhyphen"/>ment to any of our good Subjects which are willing and deſirous to ſet out Ships at their own charges for and towards the weaken<g ref="char:EOLhyphen"/>ing and ſuppreſſing of the ſaid Rebells, and more particularly to thoſe our good Subjects who have ſuſtained dammages by the ſaid Rebells, either at Land or Sea, to the end they may obtaine ſome recompence or ſatisfaction for their ſaid loſſes.</p>
+            <p>And whereas we are informed that Sir <hi>Nicholas Criſp</hi> Knight, hath ſuffered great loſſe and dammage in the time of this unnaturall
+<pb n="3" facs="tcp:103802:3"/>Rebellion, by the ſaid Rebels, their Adherents, or Abettors, as well at Sea as upon the Land.</p>
+            <p>Know yee therefore, that wee repoſing ſpeciall truſt in his, the ſaid Sir <hi>Nicholas Criſps</hi> fidelitie and circumſpection, wher<g ref="char:EOLhyphen"/>of we have had verie good experience, have given and granted, and by theſe Preſents do give and grant unto him, the ſaid Sir <hi>Nicholas Criſp,</hi> and to ſuch as hee ſhall take into Partner-ſhip and Conſort-ſhip with him therein, full power and authoritie, at his and their owne charges to ſet to Sea, out of any of our Ports of our countrey of Cornwall, or out of any other our Ports or Havens whatſoever, fifteene or twentie ſhips, or veſſels or war, or any other number of ſhips and veſſels, not being leſſe than fifteene, equipped, victualled, fitted, furniſhed, and marined for war.</p>
+            <p>And, wee doe hereby give unto him the ſaid Sir <hi>Nicholas Criſp</hi> full power and authoritie to command in Chiefe, as Ad<g ref="char:EOLhyphen"/>mirall of the ſaid ſhips, and other veſſels, and men in them, ei<g ref="char:EOLhyphen"/>ther in his owne perſon, or by his Subſtitute, and to nominate and appoint Vice-Admiralls, Reare-Admiralls, Captains, Com<g ref="char:EOLhyphen"/>manders, and Officers, in the ſaid ſhips, as ſhall be neceſſarie for each ſhip.</p>
+            <p>And, we do hereby give unto him the ſaid Sir <hi>Nicholas Criſp,</hi> and to ſuch as ſhall be employed by, or under him, in this ſer<g ref="char:EOLhyphen"/>vice, full power and authoritie with the ſaid ſhips ſo to be ſet out by him and his partners, as afore-ſaid, or any of them, to take, ſeize, or ſurprize, or in caſe of reſiſtance, or where neceſ<g ref="char:EOLhyphen"/>ſitie requireth, by fight to compell, and take into his or their poſſeſſions, or deſtroy any of our owne ſhips or veſſels, ſet forth without our Commiſſion, Warrant, or Leave. And alſo, any other ſhips or veſſels belonging to what perſon, or of what place ſoever, which are or ſhall be employed in any ſervice for any of the ſaid Rebels, of either our ſaid Kingdomes of Eng<g ref="char:EOLhyphen"/>land or Scotland, or of any their Aiders, Abettors, or Adhe<g ref="char:EOLhyphen"/>rents; and all goods and merchandice in them contained; and all ſhips and veſſels which ſhall be employed in importing, car<g ref="char:EOLhyphen"/>rying,
+<pb n="4" facs="tcp:103802:4"/>or conveying any Armes, Ammunition, materials, or proviſion for their, or any of their aid or aſſiſtance, or in expor<g ref="char:EOLhyphen"/>ting, or tranſporting for them, or any of them, or for their, or for any their uſe, any money, Bullion, or prohibited goods whatſoever, without our Licence, or contrarie to the Law, or in trading, or carrying merchandice for trade or commerce to or from any Port, Citie, Towne, or Place; now, or which at any time hereafter ſhall be under the uſurped Power, or hol<g ref="char:EOLhyphen"/>ding of the ſaid Rebels, or of any of them, or which have paid, or ſhall pay them the ſaid Rebels, or any of them, or any other by their direction or appointment, any Cuſtomes, Subſidies, Impoſts, or other duties whatſoever, unleſſe it be by, and with our ſpeciall Licence or allowance: And likewiſe the ſhips and veſſels of all Pyrats and Sea-Rovers, together with all furni<g ref="char:EOLhyphen"/>ture, Ammunition, proviſions, goods, lading and merchandice in any of the aforeſaid ſhips or veſſels; and the ſaid ſhips, veſ<g ref="char:EOLhyphen"/>ſels, furniture, ammunition, proviſions, goods, merchandice and lading, to cauſe to be proceeded againſt, adjudged and con<g ref="char:EOLhyphen"/>demned, according to the Law and Courſe of the Admiraltie, as the caſe ſhall require before the Judge of our Court of Ad<g ref="char:EOLhyphen"/>miraltie for the time being, or other Judge or Judges of any Vice-Admiraltie, as good and lawfull Prize. And after ſuch adjudication and condemnation, to have, keep, poſſeſſe, and en<g ref="char:EOLhyphen"/>joy all the ſaid ſhips, veſſels, furniture, ammunition, proviſion, goods, lading, and merchandice, ſo by them, or any of them ta<g ref="char:EOLhyphen"/>ken as aforeſaid, as good and lawfull prize and purchaſe to their owne uſe and uſes of the Adventurers and Company joyning, as aforeſaid, to be ſhared and divided amongſt them, as they ſhall contract and agree together, without any account to be made to Vs, our Heires or Succeſſours, except ſuch of our owne ſhips and veſſels, with their Ordnance, tackle, and fur<g ref="char:EOLhyphen"/>niture, as ſhall be ſo by them taken, which we will and require ſhall be reſtored to Vs and to our uſe, wee paying and allowing the ſum of five pounds of lawfull money of England, upon everie Tun of our ſaid owne ſhips and veſſels, as ſhall with
+<pb n="5" facs="tcp:103802:4"/>the Ordnance, tackle, and furniture of the ſame, or belonging thereunto, be taken and reſtored to Vs as aforeſaid: And al<g ref="char:EOLhyphen"/>lowing alſo to the ſaid Sir <hi>Nicholas Criſp</hi> his Partners, Aſſo<g ref="char:EOLhyphen"/>ciates, the goods &amp; merchandices in any ſuch of our own ſhips or veſſels, to be made prize and divided amongſt them, in ſuch manner, and under ſuch reſervation to Vs, as other goods and merchandices taken in any other ſhips or veſſels ought to be, according to the tenour of this our Commiſſion.</p>
+            <p>And we do alſo hereby give and grant to him, the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners and Aſſociates, that it ſhall and may be lawfull for him and them, to retaine, uſe, and employ ſuch of our ſaid owne ſhips ſo to be taken and ſurprized, till we have made payment of the ſaid five pounds <hi>per</hi> Tun to him or them for the ſame, without any account or ſatisfaction to be made to Vs for the ſame whatſoever. Excepting alſo further, and reſerving to Vs all tenths heretofore uſed to be paid in ca<g ref="char:EOLhyphen"/>ſes of like nature to the Admirall of England, and all Cuſtomes and duties due, or accuſtomably paid for and upon any the ſaid prizes which we will ſhall be paid and accounted for to us, and to our uſe: Provided alwaies, that before any of the ſaid ſhips or veſſels of war ſo to be ſet out by him the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners or Aſſociates, ſhall go out of the ſaid Ports, Havens, or Harbours aforeſaid, upon the ſaid employment, the ſaid Sir <hi>Nicholas Criſp</hi> ſhall cauſe the Captaine, Maſter and chiefe Mate of everie of the ſaid ſhips, to enter into a bond or obligation of the penall ſumme of one thouſand pounds to Vs, with condition thereupon, that they, nor either of them, nor any their company employed in the ſaid ſhip, ſhall wittingly, or knowingly, rob, ſpoyle, hurt, or endam<g ref="char:EOLhyphen"/>mage any of our Subjects, or the Subjects of any of our friends, or allies, other than ſuch of either of our ſaid Kingdoms of Eng<g ref="char:EOLhyphen"/>land and Scotland, as ſhalbe in Rebellion againſt us, or ſhal be Abettors to the ſaid Rebellion, or have, or ſhall pay Cuſtomes, Subſidies, or Impoſt to the ſaid Rebells, contrary to the Law, without our ſpeciall licence or allowance; or ſhalbe imployed in aid or ſervice of the ſaid Rebells, or any of them, or which
+<pb n="6" facs="tcp:103802:5"/>are or ſhalbe imployed in exporting for them, or for their uſe, any Bullion, Plate or other prohibited Goods, without our li<g ref="char:EOLhyphen"/>cence, or ſhall convey any proviſions to or for the ſaid Rebells, or ſhall trade to or from any of thoſe Cities, Towns, Ports, or places, which are or ſhalbe under the uſurped power or holding of the Rebells, of either of our ſaid Kingdoms, of England, or Scotland, or have or ſhall take the late traiterous Covenant, or League, againſt us. And likewiſe, that all Ships by them taken, and ſurprized, with their furniture, goods, and lading, ſhall be brought intire, without breaking bulk, into ſome Port of our Kingdome of England; now or then in our poſſeſſion and obedience, except in caſe of apparent danger of the Rebells Ships: In which caſe it ſhall and may be lawfull to carrie the ſaid Ships, or Veſſells, or any of them, into any Port of our Kingdome of Ireland, or into any other Port of any Forragine Prince, or State in league or amity with us; and there to be and remain till the ſame ſhall receive ſentence, and adjudication of any of our Courts of Admiralty, or Vice-Admiralty, in ſuch manner and upon ſuch teſtimony, as if the ſaid Ships and Goods were in any of our owne Ports and Harbours, ſo as a true inventory valuation and apprize<g ref="char:EOLhyphen"/>ment of the ſaid Ships, and Veſſells, and of their goods &amp; ladings, be firſt made &amp; delivered into the Court of Admiralty, or Vice-Admiralty, where the proceeding, ſentence or adjudication touching the ſame ſhall be.</p>
+            <p>And foraſmuch theas ſetting out &amp; finiſhing of the ſaid Ships of Warre cannot be done without the great charge and expence of the ſaid <hi>Nicholas Criſp,</hi> his Part<g ref="char:EOLhyphen"/>ners, and Aſſociates, and may probably conduce, not onely to and for the reparation of the loſſes and dammages by them ſuſtained, by the ſaid Re<g ref="char:EOLhyphen"/>bels, but may alſo much tend to our Service,
+<pb n="7" facs="tcp:103802:5"/>by weakening the trength of the ſaid Rebels, deſtroying their trade, and ſuppreſſing this preſent Rebellion.</p>
+            <p>We do therefore hereby further grant unto him, the ſaid Sir <hi>Nicholas Criſp,</hi> and ſuch others as he ſhall receive into his aſſo<g ref="char:EOLhyphen"/>ciation and partnerſhip a aforeſaid, that none of the ſaid ſhips, or veſſels of war, ſo by him or them to be ſet forth, ſhall be im<g ref="char:EOLhyphen"/>preſted, commanded, or employed upon any other ſervice for Vs whatſoever, ſave only to fetch or convey Armes, or Am<g ref="char:EOLhyphen"/>munition from forraine parts into this Kingdome, for our ſpe<g ref="char:EOLhyphen"/>ciall ſervice. And that only by warrant from Our Selfe, un<g ref="char:EOLhyphen"/>der our Signe Manuall, and then not to ſtay in any Harbour a<g ref="char:EOLhyphen"/>bove twentie dayes, and to be paid for everie ſuch voyage accor<g ref="char:EOLhyphen"/>ding to the rate of foure pounds <hi>per</hi> month for everie man to be employed in everie ſuch voyage. And that none of the ſaid ſhips, veſſels, or men be commanded, or employed in any ſe<g ref="char:EOLhyphen"/>cond, or other voyage, upon the ſaid ſervice, untill they ſhall be paid and ſatisfied what ſhall be ſo due unto them upon the firſt voyage, as aforeſaid.</p>
+            <p>And further, That no Maſters, Maſters-Mate, Gunner, Sai<g ref="char:EOLhyphen"/>ler, Marriner, or other Officer or Servant employed by, or un<g ref="char:EOLhyphen"/>der the ſaid Sir <hi>Nicholas Crisp,</hi> in any of the ſaid ſhips and veſ<g ref="char:EOLhyphen"/>ſels ſhall be impreſted, or taken out of the ſame upon any occa<g ref="char:EOLhyphen"/>ſion whatſoever, without the conſent of him the ſaid Sir <hi>Ni<g ref="char:EOLhyphen"/>chelas Criſp.</hi> Nor that any Ammunition, victuall, or proviſion taken up, or provided for the ſaid ſhips or veſſels, or which ſhall be in, or belonging to any prize taken by any of the ſaid ſhips or veſſels, ſhall be taken away, or ſeized upon for our ſer<g ref="char:EOLhyphen"/>vice, or other occaſion whatſoever, without the conſent or a<g ref="char:EOLhyphen"/>greement of him the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners or Aſſociates.</p>
+            <p>And that the ſaid ſervice and employment may be the better effected and performed, and the ſaid Sir <hi>Nicholas Criſp</hi> the more enabled to provide, furniſh, and ſet out the ſaid number of ſhips and veſſels, by him propounded as aforeſaid, Wee doe hereby given and grant to him the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners and Aſſociates, full power and authoritie to provide
+<pb n="8" facs="tcp:103802:6"/>or take into his or their conſortſhip, any other ſhips or veſſels, as well of Forrainers in amitie with Vs, as of our owne Sub<g ref="char:EOLhyphen"/>jects, upon the beſt conditions hee or they can contract or agree for the ſame with the Owners thereof; and to employ and uſe them in the ſaid ſervice.</p>
+            <p>And Wee do like wiſe give unto the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners and Aſſociates, full power and authoritie from time to time, and as often as hee or they ſhall think fit and re<g ref="char:EOLhyphen"/>quiſite, or conducing to the ſervice, to land Forces as he or they ſhall think fit, in or neere unto any place or places within any our Dominions, where any Inſurrection or Rebellion is, or ſhall happen to be, and to ſuppreſſe ſuch Rebellion; and in caſe of oppoſition or reſiſtance, by fight to ſubdue, or deſtroy all ſuch Rebels and Traytours; and to appoint ſuch Commanders over ſuch part of the Forces as ſhall there be landed, as afore<g ref="char:EOLhyphen"/>ſaid, as ſhall be by him or them thought fit. And likewiſe in our name, to ſave and preſerve ſuch perſons of the ſaid Rebels ſo ſubdued and repreſſed, either by Land or Sea, as hee or they ſhall think fit to be be ſaved and preſerved, and to exchange, or keep ſuch of the ſaid Rebels, as hee or they ſhall think fit to be kept or exchanged; and to make tender of our Royall Grace and pardon to ſuch of them as ſhall ſubmit unto Vs, and deſire to receive our mercie: and ſhall be thought meet perſons to be received into our favour and grace, other than, and except ſuch as are already excepted by Vs in any of our Proclamations, or Declarations.</p>
+            <p>And, Wee do likewiſe give unto him the ſaid Sir <hi>Nicholas Criſp,</hi> power and authoritie, to make, ordaine, proclaime, and put in execution Lawes, Ordinances, and Conſtitutions, for the better order and government of the ſhips and men, which by vertue of this our Commiſſion, ſhall be under his charge and command. And to puniſh mutinies, tumults, rapines, mur<g ref="char:EOLhyphen"/>thers, and other crimes which ſhall be committed and done by any perſon or perſons, under his charge or command, either upon the Sea or Land, according to the courſe and uſage of the Sea, or of War, as the caſe ſhall happen to be.</p>
+            <p>
+               <pb n="9" facs="tcp:103802:6"/>
+And we do hereby require and command the Judge of our Court of Admiralty, and the other Judges of their ſeverall Vice-Admiralties within our Kingdome of England and Dominion of Wales, or elſewhere, according to this our Commiſſion, they forthwith proceed to ſentence, or adjudication of the ſame with ſpeed and effect, as good and lawfull prize, without any unne<g ref="char:EOLhyphen"/>ceſſary delay, which may turne to his or their prejudice.</p>
+            <p>And we do hereby command and require all Governours, Captaines, and Commanders of all our Cities, Caſtles, Towns, and Garriſons, and all Sheriffes, Majors, Bailiffes, Juſtices of the Peace, Vice-Admiralls, Conſtables, and all other our Offi<g ref="char:EOLhyphen"/>cers, Miniſters, and Subjects whatſoever, within any of our Dominions, to be aiding and aſſiſting to him the ſaid Sir <hi>Nicho<g ref="char:EOLhyphen"/>las Criſp,</hi> his Partners, and Aſſociates, and ſuch as ſhalbe im<g ref="char:EOLhyphen"/>ployed by, or under him, or them, in the execution of the Pro<g ref="char:EOLhyphen"/>miſes, as they will anſwere the contrary at their utmoſt perills.</p>
+            <p>And we do alſo hereby deſire all others, aſwell Admiralls, Vice-Admiralls, Captains, and Officers, and other the Subjects belonging unto any Prince or State now in amity with us, to be aiding and aſſiſting to us as occaſion ſhal require, to him the ſaid Sir <hi>Nicholas Criſp,</hi> his Partners, and Aſſociates, and thoſe under his or their command, in the execution of this our Commiſſion.</p>
+            <p>And we do hereby alſo require and command the Judge of our Court of Admiralty, for the time being, upon Requeſt made by him the ſaid Sir <hi>Nicholas Criſp,</hi> for that purpoſe, to grant unto him the ſaid Sir <hi>Nicholas Criſp,</hi> and to the Captains or Commanders of every the Ships to be ſet out, or imployed as a<g ref="char:EOLhyphen"/>foreſaid, ſeverall Letters of Marke, or Repriſall, or Commiſſi<g ref="char:EOLhyphen"/>ons of that nature, under the great Seale of our Court of Ad<g ref="char:EOLhyphen"/>miralty, enabling them for taking prizes according to the ſub<g ref="char:EOLhyphen"/>ſtance of this our Commiſſion, to the end the ſaid Commiſſi<g ref="char:EOLhyphen"/>on may have and receive the greater countenance, authority, and eſteem in Forraigne parts beyond the Seas.</p>
+            <p>And further know yee, that we putting ſpeciall truſt and confidence in the ſaid Sir <hi>Nicholas Criſp,</hi> and being aſſured of
+<pb n="10" facs="tcp:103802:7"/>his zeale and fidelity to us, and our ſervice, we do hereby fur<g ref="char:EOLhyphen"/>ther grant unto him the ſaid Sir <hi>Nicholas Criſp,</hi> power and au<g ref="char:EOLhyphen"/>thority to contract and agree with any Maſter, Maſters Mates, Marriners, Saylors, other Perſon or Perſons whatſoever, for bringing in any Ships, Goods or Merchandize of, or belonging to any perſon or perſons in rebellion againſt us, or aſſiſting or adhering to the ſaid Rebells, into any Port or Haven of this our Kingdom in actuall obedience to us, upon ſuch termes or arti<g ref="char:EOLhyphen"/>cles as he and they ſhall agree; which we hereby, for us, our heirs and ſucceſſors, grant and declare ſhalbe kept and obſerved inviolaby in our behalfe.</p>
+            <p>And do hereby require all our Officers and Miniſters, to ſee the ſame obſerved according.</p>
+            <p>And our expreſſe will and and pleaſure is, and we do hereby charge and command the Judge of our Admiralty, and of every Vice-Admiralty, where any the ſaid ſhips, goods, or merchan<g ref="char:EOLhyphen"/>dize ſo agreed, or contracted for, ſhalbe brought, that they ſhall proceed to ſentence or adjudication of, and upon the ſaid ſhips, and goods, as if the ſame had been taken and ſeized upon by force and ſtrength at ſea.</p>
+            <p>And our will and pleaſure is, That the Maſter of ſuch ſhips, or he with whom the ſaid contract or agreement is made, upon his performance thereof, and ſentence and adjudication given therof, ſhall have &amp; enjoy ſuch a proportion or ſum of mony or other reward, as he contracted or agreed with the ſaid Sir <hi>Nico<g ref="char:EOLhyphen"/>las Criſp</hi> for: And that the ſaid Sir <hi>Nicholas Criſp</hi> and his Part<g ref="char:EOLhyphen"/>ners, and Aſſociates, ſhall have and enjoy, to their owne uſes, the reſidue of the ſaid Ships. And becauſe it may fall out that the ſhips of this our Kingdome may not prove ſo uſefull for this preſent ſervice as Dunkirk Frigots, or other Forraigne Ships, we of our further grace do grant unto the ſaid Sir <hi>Nicho<g ref="char:EOLhyphen"/>las Criſp,</hi> full and free power and liberty by himſelfe, or his a<g ref="char:EOLhyphen"/>gents, to barter, exchange and ſell away any of his ſaid ſhips, or any which ſhalbe taken as prize in this ſervice, other than our owne ſhpis and veſſells which are to be reſtored to us as afore<g ref="char:EOLhyphen"/>ſaid, to any Forrreigner whatſoever, any Law, Statute, or Ordi<g ref="char:EOLhyphen"/>nance
+<pb n="11" facs="tcp:103802:7"/>to the contrary in any wiſe notwithſtanding. Provided that inſtead of every ſuch ſhip ſo bartered away, exchanged, or ſold, there be one other ſhip provided from Forraigne parts, at leaſt equally uſefull, if not better for the preſent ſervice and employment.</p>
+            <p>And our will and pleaſure is, and we do hereby declare, that this our Commiſſion, and the Powers, Liberties, Licence, Au<g ref="char:EOLhyphen"/>thority hereby reſpectively given and granted, ſhalbe and con<g ref="char:EOLhyphen"/>tinue in force for and during the ſpace of two whole years next enſuing the dare hereof (if this Rebellion ſhould ſo long conti<g ref="char:EOLhyphen"/>nue) and no longer.</p>
+            <p>In witneſſe whereof Wee have cauſed theſe our Letters to be made Patents; Witneſſe Our Selfe at Oxford, the ſixth day of May, in the twentieth yeare of Our Raigne.</p>
+            <closer>
+               <signed>Signed <hi>Willis. Per ipſum Regem.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="appointment">
+            <p>BY vertue and authoritie of this Commiſſion granted to me Sir <hi>Nicholas Criſp,</hi> Knight, I do hereby ordaine and appoint my very good and approved friend, and true Subject of the King of England, <hi>Gerhard Iſbrant</hi> owner of the Frigot called S. Patrick of Falmouth, to be Captaine and Commander of the ſaid Fri<g ref="char:EOLhyphen"/>got: And do authorize him the ſaid Captaine <hi>Iſbbrant</hi> to doe, performe, and execute all ſuch things as are to be done and exe<g ref="char:EOLhyphen"/>cuted by vertue of this Commiſſion, requiring all the Officers and Martiners of the ſaid Frigot to obey the ſaid Captaine <hi>I<g ref="char:EOLhyphen"/>ſbrant</hi> in all thngs, as their Captaine and Commander, not to depart from him having voluntarily put themſelves under his command, without the ſaid Captains leave and licence: and the ſaid Captain <hi>Iſbrant</hi> is to obey Sir <hi>Nicolas Criſp</hi> in al things as his Admirall.</p>
+            <closer>
+               <signed>N. Criſp.</signed>
+            </closer>
+            <postscript>
+               <p>This Copie being conferred with the Originall, is found to agree therewith:</p>
+               <closer>
+                  <signed>
+                     <hi>Jacobus Aſtella<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. Sereniſſ. Dom. noſtri Magnae Bri<g ref="char:EOLhyphen"/>tanniae Regis Not. Pub. admiſſi atque jurati.</hi>
+                  </signed>
+                  <date> 1645.</date>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:103802:8"/>
+            <head>To the Committee for the Navie.</head>
+            <opener>
+               <salute>Noble Sirs:</salute>
+            </opener>
+            <p>WEE preſent you here one peece of the Enemies care by ſea, the readi<g ref="char:EOLhyphen"/>neſſe of their undertakings, the willing acceptance of ſuch tenders, the coun<g ref="char:EOLhyphen"/>ſell they have, their preſent executions, their engaging of their whole partie, even as far as Poperie reacheth, and as low as Hell; for from this Commiſsion, the Dunkirk and Oſtend Frigots get theirs, and act vigorouſly: ſome have formerly ſaid of England, That the ſea could give lawes to their forraine and do<g ref="char:EOLhyphen"/>meſtick broyles. Wee therefore deſire that you would look upon this Criticall yeere, and upon ſuch meanes as God hath betruſted you withall. Remember the ſea (in former times) hath ever danced under our veſſels laden with victorious trophies from abroad; let us not be baffled at our doors, the ſhips and ſea-men are yet yours, 'tis a great prize: God keeps all the world upon the hinges by his coun<g ref="char:EOLhyphen"/>ſell;
+<pb n="13" facs="tcp:103802:8"/>States and Kingdomes muſt keep their work on the wheeles by the ſame way; this Kingdome will never be delivered by Law, but Men, who being good, carrie Law in their boſomes. Shew your ſelves now, if ever, to ſave a gaſping Nation, that after-ages may ſay, There was a bleſſed, faithfull, State-ſaving Committee of the Navie: The Lord help you and us. AMEN.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
